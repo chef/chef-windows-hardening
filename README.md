@@ -1,3 +1,10 @@
+## Archived 3rd-Party Fork
+
+This repository is an archived copy of a 3rd-party open-source project that Progress Chef contributed to.
+
+It was archived as part of the [Repository Standardization Initiative](https://github.com/chef-boneyard/oss-repo-standardization-2025).
+
+---
 # windows-hardening (Chef Cookbook)
 
 This cookbook provides recipes for ensuring that a Windows 2012 R2 system is compliant with the [DevSec Windows Baseline](https://github.com/dev-sec/windows-baseline).
